@@ -7,6 +7,7 @@
         {
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
+            
             "request": "launch",
             "preLaunchTask": "build",
             "program": "${workspaceFolder}/WebApplication1/bin/Debug/net6.0/WebApplication1.dll",

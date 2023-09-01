@@ -24,6 +24,7 @@ public class ContatoController : Controller
     {
         return View();
     }
+    
 }
 
 }
